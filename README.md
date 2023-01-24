@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+https://user-images.githubusercontent.com/71711489/185243914-d6c6d441-d68f-4f41-a62e-39f5404df601.mp4
+
+Check code here: [code](https://github.com/SueGK/Courses-Projetcs/blob/main/pyimagesearch-opencv-17-day-course/README.md)
+
 ---
 - 📫 How to reach me: 
 [![Twitter Badge](https://img.shields.io/badge/-@Sue_sk79-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Sue_sk79)](https://twitter.com/Sue_sk79) [![Linkedin Badge](https://img.shields.io/badge/-ShukangGuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shukang-guo/)](https://www.linkedin.com/in/shukang-guo/) [![Medium Badge](https://img.shields.io/badge/-@Sue-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sue.sk.guo/)](https://medium.com/@sue.sk.guo/)
