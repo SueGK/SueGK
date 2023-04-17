@@ -12,13 +12,6 @@ Check code here: [code](https://github.com/SueGK/Courses-Projetcs/blob/main/pyim
 - 👩‍💻 I'm interested in machine learning, deep learning, data visualization, tools for thoughts and content creation.
   - [Personal Website Sharing notes](https://suegk.github.io/) (Still in building)
   - [Tableau Profile](https://public.tableau.com/app/profile/sue.guo)
-  - [MY Deep Learning Mindmap](https://bra.in/2j82rk)
-    
-    <img src="https://testksj.oss-cn-beijing.aliyuncs.com/uPic/dHYOh4.png" width="900">
-    
-  - [MY ChatGPT Resources Summary](https://bra.in/7jk4Jw)
-  
-    <img src="https://testksj.oss-cn-beijing.aliyuncs.com/uPic/bwmUea.png" width="400">
     
 - 👯 I’m looking to collaborate on blog writing about deep learning algorithms
 
