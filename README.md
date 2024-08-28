@@ -16,3 +16,10 @@ https://user-images.githubusercontent.com/71711489/185243914-d6c6d441-d68f-4f41-
   - I'm curious about everything and wanna learning everything but time is limited🥲 
   - I'm reallllly into productivity tools and please check my twitter for details about my productivity workflow 🥳
 --> THINGS I LEARNED: Video Editing(Adobe Premiere, Adobe Effects, Vegas Pro); Dance(6 years); PowerPoint Template creation; Productivity softwares 
+
+### 🖼️ 自制的流程图
+#### 1. ReAct Prompt
+  ![ReAct-Sue](https://github.com/user-attachments/assets/0e221c68-7790-4a2b-87f4-0eb0f6ea966e)
+
+#### 2. Pytorch DataLoader
+
