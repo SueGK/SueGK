@@ -27,4 +27,7 @@ https://user-images.githubusercontent.com/71711489/185243914-d6c6d441-d68f-4f41-
 #### 3. API Communication CheatSheet
 ![API-Communication-cheatsheet](https://github.com/user-attachments/assets/7d5523e9-7eae-4962-8b49-bf8df43cb660)
 
+#### 4. Vision Transformer(ViT)
+![vit](https://github.com/user-attachments/assets/e51b34c9-d73c-460b-b8c6-8a9e086925e5)
+
 
